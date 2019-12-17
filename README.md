@@ -1,7 +1,6 @@
 # HTML Forms and Params
 
 ## Overview
-
 In this codealong lesson, we'll create a new HTML form and connect it to a Sinatra application so that we can use and manipulate the data provided by the user.
 
 ## Objectives
